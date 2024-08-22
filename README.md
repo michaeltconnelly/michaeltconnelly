@@ -1,3 +1,3 @@
 # Michael T. Connelly
 
-Hello, and welcome! I am a Marine Evolutionary Ecologist with a strong passion for exploring the intricate connections between genetics, evolution, and the marine environment. With a solid foundation in genomics and data analysis, my work focuses on unraveling the mysteries of evolutionary processes in marine species. I am deeply interested in leveraging advanced computational tools to uncover valuable insights from genomic data, contributing to sustainable biotechnological solutions and enhancing our understanding of marine ecosystems.
+Hello, and welcome! My name is Mike Connelly, and I am a marine biologist that studies cnidarian genomics to examine innovations in early animal evolution, and to reveal how host-microbe interactions impact key evolutionary processes. My overarching goal is to generate discoveries that can be translated to improve human and ecosystem health. 
